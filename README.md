@@ -1,5 +1,8 @@
 # Iot-smart-dashboard
 A WiFi-enabled smart desk display using ESP32 and a 16×2 parallel LCD. It shows real-time 12-hour clock via NTP, live weather data (temperature &amp; humidity) from OpenWeatherMap updated every 30 minutes, and a Pomodoro timer that runs continuously without resetting when modes are switched using a push button.
+<img width="1532" height="782" alt="image" src="https://github.com/user-attachments/assets/d7b6774e-1979-491f-be6c-f8727d8ad9db" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/1f4be8bc-d3bf-438c-bb76-bee0382bac77" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/fa4c81bc-baf0-48ff-9229-399ec5c2f2c0" />
 
 ---
 
